@@ -1,3 +1,0 @@
-git branch -M main
-git remote add origin https://github.com/AbdulHanan0812/Alenan-movie-recommender-system
-git push -u origin main
