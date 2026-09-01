@@ -1,5 +1,5 @@
 # 🎬 CineMatch - Movie Recommender System
-##🚀 Live Demo
+## 🚀 Live Demo
 https://alenan-movie-recommender-system-cxfl62kafhl67jt4bennnc.streamlit.app/
 
 A content-based movie recommendation system built with Python, Machine Learning, and Streamlit. This application suggests similar movies based on user selection using cosine similarity derived from movie metadata (genres, keywords, cast, crew, and overview).
