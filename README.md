@@ -31,32 +31,32 @@ ML-realworld-project-1/
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
 
-⚙️ Installation & Running Locally
+## ⚙️ Installation & Running Locally
 Follow these steps to run the project locally on your machine:
 
 Clone the repository:
 git clone [https://github.com/AbdulHanan0812/Alenan-movie-recommender-system.git](https://github.com/AbdulHanan0812/Alenan-movie-recommender-system.git)
 cd Alenan-movie-recommender-system
 
-Create and activate a virtual environment:
+## Create and activate a virtual environment:
 
 python -m venv .venv
 # On Windows:
 .venv\Scripts\Activate.ps1
 
 
-Install dependencies:
+## Install dependencies:
 pip install -r requirements.txt
 
 Run the Streamlit app:
 
 streamlit run app.py
 
-🚀 Live Demo
+## 🚀 Live Demo
 You can access the live web application here:
 https://alenan-movie-recommender-system-cxfl62kafhl67jt4bennnc.streamlit.app/
 
-👨‍💻 Author
+## 👨‍💻 Author
 Abdul Hanan Mumir
 
 Undergraduate Student in Artificial Intelligence | Python & Backend Enthusiast
